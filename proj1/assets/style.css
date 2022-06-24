@@ -1,0 +1,21 @@
+body{
+   background-color: rgb(244 245 247);
+}
+*a{
+    color:rgb(91, 91, 100);
+    text-decoration: none;
+}
+*a :hover{
+    color: red !important;
+}
+
+.footerbg{
+    background-color: black;
+    color: beige;
+}
+
+.footerbg a{
+    text-decoration: none;
+    color: aqua;
+    width: 100%;
+}
